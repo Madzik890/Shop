@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/main.qml</file>
+        <file>ui/ShoppingCart.qml</file>
+        <file>ui/ProductList.qml</file>
+        <file>ui/settings.qml</file>
+    </qresource>
+</RCC>
